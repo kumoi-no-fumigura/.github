@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="雲居の文庫">
+  <!-- 雲居の文庫のロゴ: 紋のような丸に、霞 (雲居) と開いた本 (ふみぐら) -->
+  <rect width="512" height="512" rx="96" fill="#f5efe0"/>
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#1f3a5f" stroke-width="24"/>
+  <rect x="128" y="150" width="190" height="44" rx="22" fill="#c9a24b"/>
+  <rect x="214" y="210" width="176" height="44" rx="22" fill="#c9a24b"/>
+  <path d="M112 296 Q184 256 256 296 Q328 256 400 296 L400 366 Q328 326 256 366 Q184 326 112 366 Z" fill="#1f3a5f"/>
+  <path d="M256 296 V366" stroke="#f5efe0" stroke-width="7"/>
+</svg>
