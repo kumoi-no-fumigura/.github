@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/kumoi-no-fumigura/.github/main/profile/logo.svg" alt="" width="96" align="right">
-
 # 雲居の文庫（くもゐのふみぐら）
 
 著作権の保護期間が満了した刊本から起こした日本の古典を、作品ごとのリポジトリに置いています。誰でも読み・使い・直せます（CC0 1.0）。
