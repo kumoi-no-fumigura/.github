@@ -38,6 +38,8 @@
 
 **定数歌**：[堀河百首](https://github.com/kumoi-no-fumigura/horikawa-hyakushu)（ほりかわひゃくしゅ）、[永久百首](https://github.com/kumoi-no-fumigura/eikyu-hyakushu)（えいきゅうひゃくしゅ）、[久安百首](https://github.com/kumoi-no-fumigura/kyuan-hyakushu)（きゅうあんひゃくしゅ）、[正治後度百首](https://github.com/kumoi-no-fumigura/shoji-godo-hyakushu)（しょうじごどひゃくしゅ）、[亀山殿七百首](https://github.com/kumoi-no-fumigura/kameyamadono-nanahyakushu)（かめやまどのななひゃくしゅ）
 
+**歌謡**：[神楽歌](https://github.com/kumoi-no-fumigura/kagura-uta)（かぐらうた）、[催馬楽](https://github.com/kumoi-no-fumigura/saibara)（さいばら）、[東遊](https://github.com/kumoi-no-fumigura/azuma-asobi)（あずまあそび）、[風俗歌](https://github.com/kumoi-no-fumigura/fuzoku)（ふぞくうた）、[今様](https://github.com/kumoi-no-fumigura/imayo)（いまよう）、[雑芸](https://github.com/kumoi-no-fumigura/zatsugei)（ぞうげい）
+
 ## 本文について
 
 本文は、国立国会図書館デジタルコレクションのインターネット公開資料（保護期間満了）の全文テキスト（OCR）です。作品の範囲の切り出しと段落分け、届いた修正案で直した所のほかは手を加えておらず、校正の済んでいない所には誤りが残っています。誤りを見つけたら、各作品のリポジトリの Issue か Pull Request で知らせてください。
