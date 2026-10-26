@@ -36,6 +36,8 @@
 
 **能・狂言**：[狂言記](https://github.com/kumoi-no-fumigura/kyogenki)（きょうげんき）、[風姿花伝](https://github.com/kumoi-no-fumigura/fushikaden)（ふうしかでん）、[五音曲條條](https://github.com/kumoi-no-fumigura/goon-kyoku-jojo)（ごおんきょくじょうじょう）、[覺習條條](https://github.com/kumoi-no-fumigura/kakushu-jojo)（かくしゅうじょうじょう）、[九位次第](https://github.com/kumoi-no-fumigura/kyui-shidai)（きゅういしだい）、[遊樂習道見風書](https://github.com/kumoi-no-fumigura/yugaku-shudo-fukenso)（ゆうがくしゅうどうふうけん）、[至花道書](https://github.com/kumoi-no-fumigura/shikado)（しかどうしょ）、[二曲三體繪圖](https://github.com/kumoi-no-fumigura/nikyoku-santai-ningyozu)（にきょくさんたいにんぎょうず）、[能作書](https://github.com/kumoi-no-fumigura/nosakusho)（のうさくしょ）、[曲附書](https://github.com/kumoi-no-fumigura/kyokuzukesho)（きょくづけしょ）、[風曲集](https://github.com/kumoi-no-fumigura/fukyokushu)（ふうきょくしゅう）、[習道書](https://github.com/kumoi-no-fumigura/shudosho)（しゅうどうしょ）、[世子六十以後申樂談儀](https://github.com/kumoi-no-fumigura/sarugaku-dangi)（さるがくだんぎ）、[夢跡一紙](https://github.com/kumoi-no-fumigura/museki-isshi)（むせきいっし）、[世子七十以後口傳（却來華）](https://github.com/kumoi-no-fumigura/kyakuraika)（きゃくらいか）、[金島集](https://github.com/kumoi-no-fumigura/kintosho)（きんとうしょ）、[謡曲集](https://github.com/kumoi-no-fumigura/yokyokushu)（ようきょくしゅう）
 
+**定数歌**：[堀河百首](https://github.com/kumoi-no-fumigura/horikawa-hyakushu)（ほりかわひゃくしゅ）、[永久百首](https://github.com/kumoi-no-fumigura/eikyu-hyakushu)（えいきゅうひゃくしゅ）、[久安百首](https://github.com/kumoi-no-fumigura/kyuan-hyakushu)（きゅうあんひゃくしゅ）、[正治後度百首](https://github.com/kumoi-no-fumigura/shoji-godo-hyakushu)（しょうじごどひゃくしゅ）、[亀山殿七百首](https://github.com/kumoi-no-fumigura/kameyamadono-nanahyakushu)（かめやまどのななひゃくしゅ）
+
 ## 本文について
 
 本文は、国立国会図書館デジタルコレクションのインターネット公開資料（保護期間満了）の全文テキスト（OCR）です。作品の範囲の切り出しと段落分け、届いた修正案で直した所のほかは手を加えておらず、校正の済んでいない所には誤りが残っています。誤りを見つけたら、各作品のリポジトリの Issue か Pull Request で知らせてください。
